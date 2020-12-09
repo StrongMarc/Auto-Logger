@@ -1,4 +1,9 @@
 .jumbotron {
   text-align: center;
-  color: black;
+  
+}
+
+.visual {
+  /* opacity: 0.85; */
+  color: #0000AD;
 }
