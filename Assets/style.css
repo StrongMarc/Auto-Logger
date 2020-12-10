@@ -1,9 +1,13 @@
 .jumbotron {
   text-align: center;
-  
+  margin-bottom: 0rem;
 }
 
 .visual {
   /* opacity: 0.85; */
   color: #0000AD;
+}
+
+li {
+  padding: 0rem 1.0rem;
 }
