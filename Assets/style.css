@@ -30,3 +30,13 @@ a {
 form {
   margin: 1.5rem;
 }
+
+/* TireChange Table css */
+.seperate-table::after {
+  content: " ";
+  display: block;
+  width: 100%;
+  /* background bootstrap secondary color */
+  background: #6c757d; 
+  height: 0.0625rem;
+}
