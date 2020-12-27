@@ -31,6 +31,60 @@ form {
   margin: 1.5rem;
 }
 
+/* TireChange Media Object css */
+.rotation{
+  margin: 2rem;
+}
+
+.row{
+  margin-right: 0rem;
+  margin-left: 0rem;
+}
+
+/* .box {
+  padding: 40px;
+  padding-top: 0px;
+  border-style: dotted;
+  border-color: tomato;
+} */
+
+.media {
+  margin: 0.5rem;
+}
+
+.media-body {
+  margin: 1.25rem;
+}
+
+/* .col {
+  border-style:dashed;
+  border-color: tomato;
+} */
+
+.button1 {
+  background-color: #d9dcd6;
+  /* background-color: none; */
+  color: #250404;
+  border: none;
+  width: 100%;
+}
+
+.button2 {
+  background-color: #d9dcd6;
+  color: #250404;
+  /* border: none; */
+  margin: 0.25rem;
+}
+
+.button img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.arrows {
+  margin: 1.0rem 1.75rem;
+}
+
 /* TireChange Table css */
 .seperate-table::after {
   content: " ";
